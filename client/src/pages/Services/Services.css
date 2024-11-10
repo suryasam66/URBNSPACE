@@ -1,0 +1,13 @@
+.all-services {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.services {
+    padding-left: 20px;
+    padding-right: 20px;
+    justify-content: start;
+    align-items: start;
+    text-align: start;
+     /* Align items vertically */
+}
+

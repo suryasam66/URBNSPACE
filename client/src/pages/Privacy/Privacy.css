@@ -1,0 +1,30 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+   
+}
+.privacy-text{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.all-privacy-rules{
+    align-items: start;
+    text-align: start;
+}
+.wrapper {
+    text-align: center;
+}
+
+.privacy-style {
+    color: rgb(255, 0, 0);
+    padding: 20px;
+    margin: 0 20px;
+}
+.privacy-rules-style{
+    text-decoration: underline;
+    color: rgb(43, 0, 255);
+    padding: 20px;
+    margin: 0 20px;
+}

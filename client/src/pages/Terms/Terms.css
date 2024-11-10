@@ -1,0 +1,21 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+.terms-text{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.wrapper {
+    text-align: center;
+}
+
+.terms-style {
+    color: rgb(0, 186, 93);
+}
+.terms-rules-style{
+    text-decoration: underline;
+    color: rgb(43, 0, 255);
+}
